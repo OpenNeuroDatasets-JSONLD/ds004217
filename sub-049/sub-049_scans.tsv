@@ -2,12 +2,8 @@ filename	acq_time
 anat/sub-049_T1w.nii.gz	2020-02-03T13:51:03
 fmap/sub-049_acq-task_dir-AP_epi.nii.gz	2020-02-03T13:57:50
 fmap/sub-049_acq-task_dir-PA_epi.nii.gz	2020-02-03T13:59:07
-func/sub-049_task-mentalstates_run-01_bold.nii.gz	2020-02-03T14:10:08
-func/sub-049_task-mentalstates_run-02_bold.nii.gz	2020-02-03T14:20:53
-func/sub-049_task-mentalstates_run-03_bold.nii.gz	2020-02-03T14:31:41
-func/sub-049_task-mentalstates_run-04_bold.nii.gz	2020-02-03T14:47:25
-func/sub-049_task-mentalstates_run-05_bold.nii.gz	2020-02-03T14:58:01
-func/sub-049_task-mentalstates_run-06_bold.nii.gz	2020-02-03T15:08:37
-func/sub-049_task-mentalstates_run-07_bold.nii.gz	2020-02-03T15:19:16
-func/sub-049_task-mentalstates_run-08_bold.nii.gz	2020-02-03T15:29:57
-func/sub-049_task-mentalstates_run-09_bold.nii.gz	2020-02-03T15:40:37
+func/sub-049_task-mentalstates_run-04_bold.nii.gz	2020-02-03T14:58:01
+func/sub-049_task-mentalstates_run-05_bold.nii.gz	2020-02-03T15:08:37
+func/sub-049_task-mentalstates_run-06_bold.nii.gz	2020-02-03T15:19:16
+func/sub-049_task-mentalstates_run-07_bold.nii.gz	2020-02-03T15:29:57
+func/sub-049_task-mentalstates_run-08_bold.nii.gz	2020-02-03T15:40:37
