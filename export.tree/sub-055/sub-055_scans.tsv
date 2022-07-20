@@ -1,0 +1,11 @@
+filename	acq_time
+anat/sub-055_T1w.nii.gz	2022-04-17T16:08:43
+fmap/sub-055_acq-task_dir-AP_epi.nii.gz	2022-04-17T16:15:27
+fmap/sub-055_acq-task_dir-PA_epi.nii.gz	2022-04-17T16:16:19
+func/sub-055_task-mentalstates_run-02_bold.nii.gz	2022-04-17T16:46:26
+func/sub-055_task-mentalstates_run-03_bold.nii.gz	2022-04-17T16:57:14
+func/sub-055_task-mentalstates_run-04_bold.nii.gz	2022-04-17T17:07:44
+func/sub-055_task-mentalstates_run-05_bold.nii.gz	2022-04-17T17:18:18
+func/sub-055_task-mentalstates_run-06_bold.nii.gz	2022-04-17T17:29:24
+func/sub-055_task-mentalstates_run-07_bold.nii.gz	2022-04-17T17:39:54
+func/sub-055_task-mentalstates_run-08_bold.nii.gz	2022-04-17T17:50:42
